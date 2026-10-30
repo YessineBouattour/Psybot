@@ -1,0 +1,17 @@
+# Packages pour APIs GRATUITS
+
+# Google Gemini (1M tokens/jour gratuit)
+langchain-google-genai>=2.0.0
+
+# Groq (14,400 requêtes/jour gratuit - ULTRA RAPIDE)
+langchain-groq>=0.1.0
+
+# DeepSeek (10M tokens/mois gratuit)
+langchain-openai>=0.0.5
+
+# Cohere (1000 requêtes/mois gratuit)
+langchain-cohere>=0.1.0
+
+# Déjà installés
+# langchain>=0.1.0
+# python-dotenv

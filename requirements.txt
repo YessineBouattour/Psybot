@@ -1,0 +1,27 @@
+# Core Dependencies
+torch>=2.0.0
+sentence-transformers>=2.2.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# Vector Store
+faiss-cpu>=1.7.4  # ou faiss-gpu si GPU disponible
+chromadb>=0.4.0
+
+# LangChain (pour phases suivantes)
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.5
+
+# API & Interface
+fastapi>=0.104.0
+uvicorn>=0.24.0
+gradio>=4.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Development
+pytest>=7.4.0
+black>=23.0.0
