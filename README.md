@@ -160,20 +160,6 @@ python run_phase1.py
 Les PDFs sources (`data/stress_anxiety_pdfs/`) ne sont pas versionnés pour des raisons de taille
 et de droits d'auteur.
 
-## 🔭 Perspectives
-
-- Hébergement sur Internet une fois la stabilité validée (l'interface Gradio est un prototype)
-- Sécurité et confidentialité avant tout déploiement public : minimisation et anonymisation des
-  données envoyées aux API, sécurisation des clés et des journaux, conformité RGPD
-- Retour possible à des modèles locaux pour les cas sensibles ou hors connexion
-
-## 👥 Équipe
-
-- **Omar Hachicha**
-- **Yessine Bouattour**
-
-Encadrante : **Mme Onsa Lazez** — ENET'Com Sfax
-
 ## 📄 Licence
 
 Projet à usage académique.
